@@ -1,0 +1,23 @@
+<resources>w
+    <string name="app_name">US Military History</string>
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="intro">The following quiz tests your knowledge of the history and
+    traditions for the United States Military. See what your score is and email it to your friends
+    to see who knows more! </string>
+    <string name="first_general">1. Who was the first General of the Continental Army? </string>
+    <string name="btn_submit">Submit</string>
+    <string name="Enterpassword">Enter your password</string>
+    <string name="TF1">True</string>
+    <string name="TF2">False</string>
+    <string name="Armata"> The Armata tank has been the US Main Battle Tank since the Cold War</string>
+    <string name="ColdWar"> Select all NATO members from the 20th Century </string>
+    <string name="SOV"> Union of Soviet Socialist Republics </string>
+    <string name="GBR"> United Kingdom of Great Britain and Northern Ireland </string>
+    <string name="WGM"> German Federal Republic </string>
+    <string name="PRC"> Peoples Republic of China </string>
+    <string name="SubmitReceive"> Submit and Receive Score </string>
+    <string name="SubmitAns"> Submit Answer </string>
+    <string name="Marines">The US Marine Corps mainly fought in the Pacific in WW2</string>
+    <string name="UKUS">The United States fought the United Kingdom for independence</string>
+</resources>
